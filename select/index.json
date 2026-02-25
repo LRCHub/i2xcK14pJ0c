@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "七色の少年",
+  "base_artist": "PASSEPIED",
+  "createdAt": "2026-02-25T03:18:30.652861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "七色の少年",
+      "artist": "パスピエ",
+      "has_synced": true,
+      "path": "select/01_七色の少年_パスピエ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "七色の少年",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_七色の少年_パスピエ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "七色の少年",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_02_七色の少年_パスピエ.txt"
+    }
+  ]
+}
